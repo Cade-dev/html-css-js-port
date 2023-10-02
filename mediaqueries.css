@@ -54,13 +54,13 @@
     #article {
         font-size: 1rem;
     }
-    #footer nav {
+    #footer, nav {
         height: fit-content;
         margin-bottom: 2rem;
     }
 
     .about-containers, 
-    .contact-info-upper-content, 
+    .contact-info-upper-container, 
     .btn-container {
         flex-wrap: wrap;
     }
